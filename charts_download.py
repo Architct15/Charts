@@ -61,4 +61,4 @@ results = pool.map(geturl, symbol_list)
 pool.close()
 print("Download finished. Total time = ", datetime.datetime.now()-start)
 
-# End 
+# End of File
